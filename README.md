@@ -1,5 +1,7 @@
 # temp2
-24년 3월 21일 ver
+24/03/21
+only crud implement
+
 
 mongodb atlas <
 1. create database, account
